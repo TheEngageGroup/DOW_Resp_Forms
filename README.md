@@ -21,3 +21,18 @@ If you want to create a new version (e.g. new animal banner), you must duplicate
 3. Go to step 4. HTML Body. Here, you will replace the url of the new banner image (1100x288) in the two highlighted locations below. Keep in mind that when the banner is resized for tablet/mobile, the right half of the image is used. Make sure the banner is designed appropriately. ![Action](Action-Alert-3.png) ![Action](Action-Alert-4.png)
 4. Publish the version of the wrapper.
 5. Go to the edit section of the Action Alert and Thank You Page Builder page you wish to apply this new banner to, click 9. Design Alert and update the page wrapper in step 1. Please note that if you do not see the wrapper you just created, you may have to log out of convio and then log back in for the wrapper to appear.
+
+
+##Donation Forms
+
+Example Donation Forms in campaign TEST RESPONSIVE DONATION FORM:
+* 2015 TEG - Generic Donate Now - 16441
+* 2015 TEG - Wolves on the Brink Banner - 16440
+* 2015 TEG - New Polar Bear Banner - 16401
+* 2015 TEG - New Wolf Banner - 16400
+
+Page Wrappers Used:
+* 2015 Donate Now - Generic
+* 2015 Donate Now - Wolves on the Brink
+* 2015 Donate Now - Polar Bear
+* 2015 Donate Now - New Wolf
