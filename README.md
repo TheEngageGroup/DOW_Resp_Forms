@@ -16,7 +16,7 @@ Page Wrappers Used:
 2. The Action Alert redirects to Thank You Pagebuilder pages upon completion (2015_Alert_Thank_You_Wolf and 2015_Alert_Thank_You_Polar_Bear). 
 3. Both the action alerts and the pagebuilder thank you pages use the same page wrapper (2015 Action & TY Wolf and 2015 Action & TY Polar Bear).
 
-###Creating a New Action Alert Version (new animal banner)
+###Creating a New Action Alert Template (new animal banner)
 If you want to create a new version (e.g. new animal banner), you must duplicate the page wrapper and replace the banner image in two places.
 1. Click Setup > Page Wrapper Editor > Search 2015 Action & TY > Duplicate one of wrappers (2015 Action & TY Wolf or 2015 Action & TY Polar Bear) > Name it with a description of the new banner. ![Action](Action-Alert-1.png) ![Action](Action-Alert-2.png) 
 2. Next, go to the most recently published version (to check this you can sort by last modified on the wrapper you copied from) and edit the version.
@@ -44,3 +44,6 @@ Page Wrappers Used:
 2. Pick one that you would like to use for production and click "copy". First name the form, then make sure you add the form to the campaign you want the form to reside. Select "Responsive" for option 3 and then click finish.
 3. In order to update the text on the banner and on the form, click "3. Design Fonor Screens" and edit the donation form. On the right hand side of the data elements, select the "HTML Caption" and click "Save Order and Edit Selected". ![Donation](Donation-Form.png)
 4. To update the text on the banner and page of the Thank You landing page. Click "3. Design Donor Screens" and edit the Thank You Page. ![Thank You](Thank-You-1.png) ![Thank You](Thank-You-2.png)
+5. 
+
+###Creating a new Donation Form Template (new animal banner)
