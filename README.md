@@ -44,6 +44,6 @@ Page Wrappers Used:
 2. Pick one that you would like to use for production and click "copy". First name the form, then make sure you add the form to the campaign you want the form to reside. Select "Responsive" for option 3 and then click finish.
 3. In order to update the text on the banner and on the form, click "3. Design Fonor Screens" and edit the donation form. On the right hand side of the data elements, select the "HTML Caption" and click "Save Order and Edit Selected". ![Donation](Donation-Form.png)
 4. To update the text on the banner and page of the Thank You landing page. Click "3. Design Donor Screens" and edit the Thank You Page. ![Thank You](Thank-You-1.png) ![Thank You](Thank-You-2.png)
-5. 
+5.  
 
 ###Creating a new Donation Form Template (new animal banner)
