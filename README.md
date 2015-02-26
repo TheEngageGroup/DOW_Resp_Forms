@@ -18,7 +18,7 @@ Page Wrappers Used:
 
 ###Creating a New Action Alert Template (new animal banner)
 If you want to create a new version (e.g. new animal banner), you must duplicate the page wrapper and replace the banner image in two places.
-1. Click Setup > Page Wrapper Editor > Search 2015 Action & TY > Duplicate one of wrappers (2015 Action & TY Wolf or 2015 Action & TY Polar Bear) > Name it with a description of the new banner. ![Action](/images/Action-Alert-1.png) ![Action](/images/Action-Alert-2.png) 
+1. Click Setup > Page Wrapper Editor > Search 2015 Action & TY > Duplicate one of wrappers (2015 Action & TY Wolf or 2015 Action & TY Polar Bear) > Name it with a description of the new banner. ![Action](Action-Alert-1.png) ![Action](/Action-Alert-2.png) 
 2. Next, go to the most recently published version (to check this you can sort by last modified on the wrapper you copied from) and edit the version.
 3. Go to step 4. HTML Body. Here, you will replace the url of the new banner image (1100x288) in the two highlighted locations below. Keep in mind that when the banner is resized for tablet/mobile, the right half of the image is used. Make sure the banner is designed appropriately. ![Action](/images/Action-Alert-3.png) ![Action](/images/Action-Alert-4.png)
 4. Publish the version of the wrapper.
